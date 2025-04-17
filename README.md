@@ -43,11 +43,6 @@
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,mongodb,nodejs,nestjs,express,typescript,javascript,html,css,github,linux,vscode,postman,&perline=14" />
-  </a>
-</p>
 
 <!-- tech stack icons -->
 <p align="center">
