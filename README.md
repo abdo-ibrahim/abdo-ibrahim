@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/abdo-ibrahim/abdo-ibrahim/main/name.svg" alt="Abdo ibrahim" />
 </h1>
-<summary><h2 style="display: inline-block">Full Stack Software Engineer</h2></summary>
+<summary><h2 align="center" style="display: inline-block">Full Stack Software Engineer</h2></summary>
 <h3 align="center">Fullstack MERN Developer specialized in building scalable web applications and efficient APIs using React.Js, Next.js TypeScript, Node.js, Express and MongoDB.</h3>
 
 <!-- horizontal divider (gradient) -->
