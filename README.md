@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/abdo-ibrahim/abdo-ibrahim/main/name.svg" alt="Ahmed Sayed" />
+  <img src="https://raw.githubusercontent.com/abdo-ibrahim/abdo-ibrahim/main/name.svg" alt="Abdo ibrahim" />
 </h1>
-
-<h3 align="center">Skilled Node.js backend engineer with 2 year of experience in developing efficient APIs and scalable web applications using Nest.js and Express.js.</h3>
+<summary><h2 style="display: inline-block">Full Stack Software Engineer</h2></summary>
+<h3 align="center">Fullstack MERN Developer specialized in building scalable web applications and efficient APIs using React.Js, Next.js TypeScript, Node.js, Express and MongoDB.</h3>
 
 <!-- horizontal divider (gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -10,8 +10,7 @@
 <!-- h1 without bottom border -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdulrahman Ibrahim</h1></summary>
-    <summary><h2 style="display: inline-block">Full Stack Software Engineer</h2></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdulrahman</h1></summary>
   </ul>
 </div>
 
